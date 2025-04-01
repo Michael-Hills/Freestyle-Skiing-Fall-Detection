@@ -1,3 +1,6 @@
+Full Report included in Report.pdf
+
+
 The code is split into two parts. The preprocessing and neural networks.
 
 The preprocessing (including conversion of time series data) is contained within the python files:
