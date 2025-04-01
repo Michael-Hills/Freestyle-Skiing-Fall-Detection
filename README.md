@@ -10,9 +10,6 @@ The preprocessing (including conversion of time series data) is contained within
 
 And are executed through main.py. However please note, the preprocessing and visualisation has already been executed and the data has been saved.
 
-DO NOT RUN these files again as the preprocessing has already been executed
-
-
 The neural networks are contained within the .ipynb files of the network's respective name. i.e.:
 
 - AlexNet.ipynb
